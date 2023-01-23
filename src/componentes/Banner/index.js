@@ -11,7 +11,7 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                    Boas vindas ao meu espaço pessoal! Eu sou Antônio Evaldo, instrutor de Front-end da Alura. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :)
+                Boas vindas ao meu espaço pessoal! Eu sou Carlos Antönio, formado em Analise e Desenvolcimento de Sistemas. Com formação em HTML e CSS, Carreira QA: Processos e automação de Testes e Acessibilidade Web. Conhecimento em C#, Java, JavaScript, Python, MySQL, Git e GitHub. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :)
                 </p>
             </div>
 
@@ -20,6 +20,7 @@ export default function Banner() {
                     className={styles.circuloColorido}
                     src={circuloColorido}
                     aria-hidden={true}
+                    alt=""
                 />
 
                 <img
