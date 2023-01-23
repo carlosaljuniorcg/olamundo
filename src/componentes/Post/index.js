@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import styles from './Post.module.css';
 
-export default function PostCard({ post }) {
+export default function Post({ post }) {
     return (
         <Link to={`/posts/${post.id}`}>
             <div className={styles.post}>

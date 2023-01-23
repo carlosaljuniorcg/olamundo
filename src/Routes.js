@@ -16,7 +16,10 @@ function AppRoutes() {
         <Route path="/" element={<PaginaPadrao />}>
           <Route index element={<Inicio />} />
           <Route path="sobremim" element={<SobreMim />} />
+<<<<<<< HEAD
           <Route path="posts/:id" element={<Post />} />
+=======
+>>>>>>> parent of 3107a7f (Update 23012023)
         </Route>
         
         <Route path="*" element={<NaoEncontrada />} />
