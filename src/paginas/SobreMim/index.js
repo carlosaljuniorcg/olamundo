@@ -1,6 +1,11 @@
+import styles from "./SobreMim.module.css";
+
+import PostModelo from "componentes/PostModelo";
+import fotoCapa from "assets/sobre_mim_capa.png";
+import fotoSobreMim from "assets/sobre_mim_foto.png";
+
 export default function SobreMim() {
     return (
-<<<<<<< HEAD
         <PostModelo
             fotoCapa={fotoCapa}
             titulo="Sobre mim"
@@ -35,8 +40,5 @@ export default function SobreMim() {
                 Desde então, tem sido aprenas aprendizados atrás de aprendizados. A Alura é uma escola não só para seus alunos e alunas, mas também para os colaboradores e colaboradoras. Hoje sou muito feliz de ter a oportunidade de trazer esses conteúdos ricos e encantadores para você. Espero que aprenda bastante!
             </p>
         </PostModelo>
-=======
-        <h1>Sobre mim...</h1>
->>>>>>> parent of 0dd03ca (Update 21012023)
     )
 }
