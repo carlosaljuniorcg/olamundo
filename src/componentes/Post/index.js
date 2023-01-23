@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 >>>>>>> parent of 3107a7f (Update 23012023)
 import styles from './Post.module.css';
 
+<<<<<<< HEAD
 export default function Post({ post }) {
     return (
 <<<<<<< HEAD
@@ -34,4 +35,8 @@ export default function Post({ post }) {
         </div>
 >>>>>>> parent of 3107a7f (Update 23012023)
     )
+=======
+export default function Post () {
+    return "Post..."
+>>>>>>> parent of 0dd03ca (Update 21012023)
 }
