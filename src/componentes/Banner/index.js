@@ -11,9 +11,7 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                    Boas vindas ao meu espaço pessoal! Eu sou Carlos Antônio formado em Analise e Desenvolvimento de Sistemas. Formação HTML e CSS,
-                    Carreira QA: Processos e automação de Testes e Acessibilidade Web. 
-                    Conhecimento em C#, Java, JavaScript, Python, MySQL, Git e GitHub. :)
+                    Boas vindas ao meu espaço pessoal! Eu sou Antônio Evaldo, instrutor de Front-end da Alura. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :)
                 </p>
             </div>
 

@@ -11,7 +11,7 @@ export default function SobreMim() {
             titulo="Sobre mim"
         >
             <h3 className={styles.subtitulo}>
-                Olá, eu sou Carlos Antônio!
+                Olá, eu sou o Antônio!
             </h3>
 
             <img
@@ -21,22 +21,24 @@ export default function SobreMim() {
             />
 
             <p className={styles.paragrafo}>
-                Oi, tudo bem? Eu sou formado em ADS e atualmente aprofundando meus conhecimentos no ALURA e estou feliz de te ver por aqui.
+                Oi, tudo bem? Eu sou instrutor de Front-end na Alura e estou feliz de te ver por aqui.
             </p>
             <p className={styles.paragrafo}>
-                Minha história na programação começou a alguns anos quando decide entrar para faculdade e cursa Analise e Desenvolimento de Sistemas. Lá eu aprendi lógica de programação e o básico de várias linguagens, como PHP, Python, Java, mas sem aprofundar muito em cada uma delas. Sempre gostei muito da área de tecnologia e nos últimos anos tenho dedicado tempo para me aprofundar em Formação Frontend.
+                Minha história com programação começou no Instituto Federal do Piauí (IFPI), quando fiz o ensino médio integrado ao curso de Informática. Eu aprendi lógica de programação e o básico de várias linguagens, como PHP, Python, Java, mas sem aprofundar muito em cada uma delas. Eu gostava muito de estudar programação, mas na época não fazia ideia de que trabalharia com isso hoje.
             </p>
             <p className={styles.paragrafo}>
-                Logo que conclui a faculdade, procurei informações de sobre como apronfundar meus conhecimentos para quem sabe em um futuro próximo ter a oportunidade de exercer a função na área. Atualmente sou aluno ativo na ALURA estudando a parte de Frontend. Com formações em Iniciante em Programação, Formação de HTML e CSS, Formação Carreira QA: processos e automação de testes, Acessibilidade Web e atualmente concluindo a Formação de React.
+                No ensino superior, escolhi cursar Engenharia Elétrica na Universidade Federal do Piauí (UFPI). Lá eu consegui entrar no PET (Programa de Educação Tutorial), um grupo acadêmico que contribui de diversas formas para o curso. Lá eu tive a oportunidade de estudar desenvolvimento web para ser um dos mantenedores do site deles.
             </p>
             <p className={styles.paragrafo}>
-                Com isso quero ainda esse ano conluir todos os cursos e formações necessários e entrar para a área de Frontend. E claro continuar evoluindo na carreira para alcançar o verdadeiro objetivo que é me tornar um fullstack sênior. 
+                Com isso tive minha experiência de dev mais próxima da realidade, com prazos de implementação para o site, e aprendi muito enquanto codificava.
             </p>
             <p className={styles.paragrafo}>
-                E com experiencia em Frontend, quero continuar minha evolução acadêmica para que nos próximos 3 ou 4 anos eu venha a conseguir alcançar o real objetivo. Mas com um perspectiva de continuar adquirindo conhecimento, ganhando certificações e crescendo cada vez mais. Como diria um bom amigo, O CÉU É O LIMITE.  
+                E foi enquanto eu estava no PET que decidi procurar um estágio em desenvolvimento web. Eu encontrei uma vaga na Alura para o Scuba Team e percebi que ela aliava duas paixões minhas: programação e educação. Para minha felicidade, fui escolhido para fazer parte do time.
 
             </p>
-
+            <p className={styles.paragrafo}>
+                Desde então, tem sido aprenas aprendizados atrás de aprendizados. A Alura é uma escola não só para seus alunos e alunas, mas também para os colaboradores e colaboradoras. Hoje sou muito feliz de ter a oportunidade de trazer esses conteúdos ricos e encantadores para você. Espero que aprenda bastante!
+            </p>
         </PostModelo>
     )
 }
